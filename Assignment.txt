@@ -1,0 +1,2 @@
+The task is to demonstrate understanding of the useRef hook in React by implementing missing functionality in a provided React component called CountWords.
+In the first testcase you have to find how you can count the number rerenders on providing input value after this in late test cases the app should function in such a way that when we click on the input box it should get focussed and we also want to set the current value of inputRef to the input element. There are failing test cases which need to be verified after completing the implementation.
